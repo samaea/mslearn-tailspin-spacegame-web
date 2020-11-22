@@ -1,3 +1,4 @@
+[![Build Status](https://samcontoso.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/samaea.mslearn-tailspin-spacegame-web?branchName=master)](https://samcontoso.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=25&branchName=master)
 
 # Contributing
 
